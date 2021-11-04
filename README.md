@@ -1,2 +1,3 @@
 # Active-sampling
-This is the implementation of the active sampling algorithm
+This is the implementation of the active sampling algorithm.
+We only open source key algorithms.
